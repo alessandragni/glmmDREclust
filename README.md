@@ -1,4 +1,4 @@
-Generalized Mixed Model-based Clustering of Grouped Data with Application in Education
+Generalized Mixed Model-based Clustering of Grouped Data with Application in Learning Analytics
 ================
 
 
