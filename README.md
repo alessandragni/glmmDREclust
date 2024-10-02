@@ -22,7 +22,7 @@ Raw data are publicly available at https://www.oecd.org/pisa/data/2018database/.
 
 Cleaned data that are produced by processing raw input data are placed in `data`. Specifically:
 
-* `data`/`raw_data_import_and_preprocessing.R` is an R script containing the code for importing, preprocessing and merging the raw data input (downloadable from https://webfs.oecd.org/pisa2018/SPSS_STU_QQQ.zip and https://webfs.oecd.org/pisa2018/SPSS_SCH_QQQ.zip);
+<!--  * `data`/`raw_data_import_and_preprocessing.R` is an R script containing the code for importing, preprocessing and merging the raw data input (downloadable from https://webfs.oecd.org/pisa2018/SPSS_STU_QQQ.zip and https://webfs.oecd.org/pisa2018/SPSS_SCH_QQQ.zip); + -->
 
 * `data`/`df_level2.csv` is the cleaned dataset produced by processing the raw input data mentioned above;
 
