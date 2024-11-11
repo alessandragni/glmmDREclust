@@ -36,8 +36,8 @@ class AlgorithmComp:
         self.K1 = 20
         self.tolweight = 0.005
         self.tol = tol  # distance between 2 points for making them collapse
-        self.tolR = 10**(-5)  # tolerance for the iterative estimation of support points
-        self.tolF = 10**(-5)  # tolerance for the iterative estimation of fixed effects
+        self.tolR = 10**(-8)  # tolerance for the iterative estimation of support points
+        self.tolF = 10**(-8)  # tolerance for the iterative estimation of fixed effects
         self.itmax = 20
 
         if model == 'B':
