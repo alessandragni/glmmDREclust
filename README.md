@@ -1,6 +1,17 @@
 Generalized Mixed Model-based Clustering of Grouped Data with Application in Learning Analytics
 ================
 
+This repository contains code for reproducing the experiments and examples presented in the accompanying paper
+
+---
+
+## 📄 Accompanying Paper
+
+**A statistical significance-based approach for clustering grouped data via generalized linear model with discrete random effects**  
+*Alessandra Ragni, Chiara Masci, Francesca Ieva and Anna Maria Paganoni (2025)*  
+[https://doi.org/10.1093/jrsssa/qnaf007](https://doi.org/10.1093/jrsssa/qnaf007)
+
+---
 
 # Data
 
@@ -29,6 +40,7 @@ Cleaned data that are produced by processing raw input data are placed in `data`
 * `data`/`iso_countries.xlsx` is the excel retrieved from the Codebook (https://webfs.oecd.org/pisa2018/PISA2018_CODEBOOK.xlsx) that associates each country with its ISO code.
 
 
+---
 
 
 # Code
@@ -65,6 +77,7 @@ The `output` directory holds objects derived from computations, including result
 2. `output`/`simulation_study_results`: folder with pickles results of `GLMMDRE_simulation_study.ipynb`;
 3. `output`/`comparison_state_of_art`: folder with other folders result of `DG_GLMMDRE_comparison_state_of_art.ipynb`.
 
+---
 
 # Instructions for use
 
