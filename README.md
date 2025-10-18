@@ -3,6 +3,8 @@ Generalized Mixed Model-based Clustering of Grouped Data with Application in Lea
 
 This repository contains code for reproducing the experiments and examples presented in the accompanying paper
 
+---
+
 **A statistical significance-based approach for clustering grouped data via generalized linear model with discrete random effects**  
 *Alessandra Ragni, Chiara Masci, Francesca Ieva and Anna Maria Paganoni (2025)*  
 [https://doi.org/10.1093/jrsssa/qnaf007](https://doi.org/10.1093/jrsssa/qnaf007)
